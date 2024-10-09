@@ -6,10 +6,7 @@ Tujuan Program : Program ini dirancang untuk memberikan pengalaman berbelanja ya
 Fitur Utama
 1. Daftar Produk :
    Menyediakan antarmuka yang menampilkan berbagai kategori produk seperti makanan, pakaian, dan elektronik.
-   Setiap produk dilengkapi dengan informasi berikut:
-   Nama produk
-   Deskripsi singkat
-   Harga
+   Setiap produk dilengkapi dengan informasi berikut: Nama produk, Deskripsi singkat, Harga.
 2. Keranjang Belanja :
    Pengguna dapat menambahkan produk yang diinginkan ke dalam keranjang belanja.
    Menyediakan opsi untuk menghapus item dari keranjang jika pengguna berubah pikiran.
