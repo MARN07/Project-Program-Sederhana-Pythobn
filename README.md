@@ -10,40 +10,31 @@ Fitur Utama
    Nama produk
    Deskripsi singkat
    Harga
-
 2. Keranjang Belanja:
    Pengguna dapat menambahkan produk yang diinginkan ke dalam keranjang belanja.
    Menyediakan opsi untuk menghapus item dari keranjang jika pengguna berubah pikiran.
    Menampilkan total harga dari semua item yang ada di dalam keranjang, sehingga pengguna dapat melihat total biaya belanja mereka sebelum melakukan pembayaran.
-
 3. Proses Checkout:
    Setelah pengguna selesai berbelanja, mereka dapat melanjutkan ke proses checkout.
    Program menampilkan ringkasan pembelian yang mencakup daftar produk yang dibeli, jumlah item, dan total biaya.
    Pengguna diminta untuk mengonfirmasi pembelian sebelum menyelesaikan transaksi.
-
 4. Antarmuka Pengguna:
    Program memiliki antarmuka berbasis teks yang sederhana dan mudah dinavigasi, cocok untuk pengguna baru.
    Menyediakan petunjuk langkah demi langkah untuk setiap fungsi, sehingga pengguna tidak bingung saat berbelanja.
-
 5. Penyimpanan Data (Opsional):
    Untuk meningkatkan fungsionalitas, program dapat dilengkapi dengan fitur penyimpanan data menggunakan file CSV atau database sederhana, sehingga pengguna dapat menyimpan riwayat pembelian mereka.
    Alur Kerja Program
-
 6. Inisialisasi:
    Ketika program dijalankan, pengguna disambut dengan menu utama yang menampilkan pilihan untuk melihat produk atau keluar dari aplikasi.
-
 7. Menjelajahi Produk:
    Pengguna dapat memilih kategori produk untuk melihat daftar item yang tersedia.
    Setelah memilih produk, pengguna dapat melihat detail produk dan memilih untuk menambahkannya ke keranjang belanja.
-
 8. Mengelola Keranjang:
    Pengguna dapat melihat keranjang belanja mereka kapan saja untuk mengecek item yang telah ditambahkan.
    Opsi untuk mengubah jumlah item atau menghapus produk dari keranjang juga tersedia.
-
 9. Checkout dan Konfirmasi:
    Setelah merasa puas dengan belanjaan, pengguna dapat melanjutkan ke proses checkout.
    Program meminta konfirmasi akhir sebelum menyelesaikan transaksi, sehingga pengguna dapat memastikan semua informasi sudah benar.
-
 10. Pesan Terima Kasih:
    Setelah menyelesaikan transaksi, program menampilkan pesan terima kasih kepada pengguna dan mengonfirmasi bahwa pembelian telah berhasil diproses.
 
